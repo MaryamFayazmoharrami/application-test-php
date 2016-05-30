@@ -27,6 +27,6 @@ Beschreibe kurz dein Vorgehen bei der Planung und Durchführung des Terminkalend
 
 ## Arbeitsablauf
 Bitte lege dir bei Github.com ein Benutzerkonto an (falls noch nicht vorhanden) und forke dieses Projekt.
-Nach Abschluss der Arbeiten gebe uns bitte Zugriff dein Repository, damit wir deine Arbeit einschätzen können.
+Nach Abschluss der Arbeiten gebe uns bitte Zugriff auf dein Repository, damit wir deine Arbeit einschätzen können.
 
 Wir wünschen viel Spaß und ein gutes Gelingen beim Erledigen der Aufgabe!
