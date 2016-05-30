@@ -4,7 +4,7 @@ Um mehr über dich und deine fachlichen Fähigkeiten zu erfahren, findest du auf
 
 Ziel ist es einen Terminkalender als moderne PHP-Webapplikationen zu entwerfen und implementieren.
 
-## Folgende Kriterien muss der Terminkalender erfüllen:
+## Folgende Kriterien muss der Terminkalender erfüllen
 * Hinzufügen, Entfernen  und Ändern von Terminen.
 * Anzeige von Terminen in einer Tages- und Wochenansicht.
 * Ein Termin besteht aus:
