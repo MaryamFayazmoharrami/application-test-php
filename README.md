@@ -1,6 +1,6 @@
 # PHP Übungsaufgabe
 
-Um mehr über dich und deine fachlichen Fähigkeiten zu erfahren, findest du auf dieser Seite eine kleine Übungsaufgabe, welche als Ergänzung zu deinen Bewrbungsunterlagen dient.
+Um mehr über dich und deine fachlichen Fähigkeiten zu erfahren, findest du auf dieser Seite eine kleine Übungsaufgabe, welche als Ergänzung zu deinen Bewerbungsunterlagen dient.
 
 Ziel ist es einen Terminkalender als moderne PHP-Webapplikationen zu entwerfen und implementieren.
 
