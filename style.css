@@ -1,0 +1,141 @@
+body {
+    background-color: #b5babb;
+}
+#textEinloggen {
+	
+	    font-size: 20px;
+    color: #1f1f1e;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: justify;
+}
+#anmeldenBereich{
+	
+	    font-size: 20px;
+    color: #1f1f1e;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: justify;
+}
+
+
+body button{
+	
+	    background-color: floralwhite;
+    border: cadetblue 1px solid;
+    font-weight: bold;
+    font-size: 14px;
+    color: #33322d;
+    box-shadow: 1px 4px 1px #888888;
+}
+
+#btn5 {
+	
+	    margin-left: 200px;
+}
+
+form {
+    width: 20 em;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#btn9 {
+height: 40px;
+    width: 190px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+	}
+#btn8{
+height: 40px;
+    width: 190px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+	}
+	
+#terminMerkmale {
+	    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div#result {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    margin-top: 20px;
+}
+
+
+
+table,td,td {
+		border-collapse:collapse;
+		border: 1px solid darkgrey;
+		}
+th		{
+		border-collapse:collapse;
+		border: 1px solid darkgrey;
+		background:#fafad2;
+		height: 35px;
+		font-size: 18px;
+		font-weight: bold;
+		text-align: center;
+		color: #442804;
+		}
+	tr.colored td{
+		background:#fafad2;
+		}
+	tr.mouseon td{
+		background:#1e90ff;
+	}
+	input,label,select{
+	float: left;
+	width: 40%;
+	    width: 200px;
+    height: 20px;
+    font-size: 14px;
+	}
+	
+
+	input,select{
+		margin:0 0 .1em .2em;
+		padding:.1em .1em;
+		background-color: #fffbf0;
+		border: 1px solid #e7c157;
+	}
+	label.input::after{
+		content: ": ";
+	}
+	
+	
+#result table {
+    width: 700px;
+}
+#result table td input{
+    width: 150px;
+}
+#result table td select{
+    width: 150px;
+}
+
+#result table td {
+	    height: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: #442804;
+}
+
+tr.colored th {
+    background-color: #ece17c;
+}
+#terminMerkmale label{
+	font-size:17px;
+	font-weight: bold;
+}
