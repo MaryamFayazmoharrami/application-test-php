@@ -70,7 +70,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `family`, `email`, `password`) VALUES
-(8, 'Muster', 'Mustername', 'muster@gmail.com', '123'),
+(8, 'Maryam', 'Fayazmoharrami', 'maryam@gmail.com', '123'),
 (9, 'abc@gmail.com', 'abcfamily', 'abc@gmail.com', '123');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
